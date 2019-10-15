@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/oraclesql/oraclesql.iml" filepath="$PROJECT_DIR$/oraclesql/oraclesql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/scalacode.iml" filepath="$PROJECT_DIR$/.idea/scalacode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringcode/stringcode.iml" filepath="$PROJECT_DIR$/stringcode/stringcode.iml" />
+    </modules>
+  </component>
+</project>
